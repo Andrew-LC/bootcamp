@@ -1,6 +1,6 @@
 # Bootcamp code 
 
-This is a Vite-based project that leverages modern build tools and development servers for a fast and efficient development experience.
+This is a playground for the bootcamp
 
 ## Table of Contents
 
